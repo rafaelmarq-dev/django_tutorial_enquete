@@ -1,2 +1,2 @@
-venv\
-.venv\
+#Ambiente virtual
+venv/
